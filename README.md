@@ -4,6 +4,15 @@ _**Here are my questions to ChatGPT and the answers I received...**_
 
 Free preview version of ChatGPT was used (based on GPT-3.5) with its well-known model text-davinci-002. All these answers are given 'as is' and no modification was made afterwards...
 
+## Questions
+
+- [1. What is the importance of computers in 21st century?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#1-what-is-the-importance-of-computers-in-21st-century)
+- [2. What are the advantages of artificial intelligence (AI) in today's world?]()
+- [3. What are the benefits of computer programming and software development?]()
+- [4. What is data analysis? How does it affect the large companies?]()
+- [5. Which programming languages, libraries and tools are suitable for data analysis?]()
+- [6. What is machine learning? What are the types of machine learning?]()
+
 ### 1. What is the importance of computers in 21st century?
 
 Computers play a crucial role in 21st century across various aspects of our lives, and their importance continues to grow as technology advances. Here are some key reasons why computers are essential in the 21st century:
