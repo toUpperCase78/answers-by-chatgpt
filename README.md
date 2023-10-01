@@ -10,7 +10,7 @@ Free preview version of ChatGPT was used (based on GPT-3.5) with its well-known 
 - [2. What are the advantages of artificial intelligence (AI) in today's world?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#2-what-are-the-advantages-of-artificial-intelligence-ai-in-todays-world)
 - [3. What are the benefits of computer programming and software development?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#3-what-are-the-benefits-of-computer-programming-and-software-development)
 - [4. What is data analysis? How does it affect the large companies?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#4-what-is-data-analysis-how-does-it-affect-the-large-companies)
-- [5. Which programming languages, libraries and tools are suitable for data analysis?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#5-which-programming-libraries-and-tools-are-suitable-for-data-analysis)
+- [5. Which programming languages, libraries and tools are suitable for data analysis?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#5-which-programming-languages-libraries-and-tools-are-suitable-for-data-analysis)
 - [6. What is machine learning? What are the types of machine learning?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#6-what-is-machine-learning-what-are-the-types-of-machine-learning)
 
 ### 1. What is the importance of computers in 21st century?
