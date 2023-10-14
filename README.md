@@ -179,3 +179,21 @@ Machine learning can be categorized into several types based on the learning app
    - This approach can save time and resources and often results in improved performance.
 
 Machine learning is a versatile and powerful field with applications in various domains, including image and speech recognition, natural language processing, recommendation systems, autonomous vehicles, and more. The choice of which type of machine learning to use depends on the specific problem and the availability of labeled data.
+
+### 7. What is computer networks? Which beneficial things can you learn as a computer engineer?
+
+Computer networks refer to the interconnected system of computers that share resources and information. These interconnected systems can be within a small area, like within a single office building, or spread across the globe. They enable the sharing of resources and information among various devices. Computer networks are critical in facilitating communication, data sharing, and resource sharing between multiple devices, which can include computers, servers, routers, and other devices.
+
+As a computer engineer, there are several beneficial things you can learn, some of which are directly related to computer networks:
+
+1. Network Architecture and Protocols: Understanding how networks are structured, the various components that make up a network, and the protocols that govern their communication is fundamental.
+2. Network Security: With the increasing threat of cyberattacks, understanding how to secure networks and data is crucial. This includes learning about encryption, firewalls, secure network design, and more.
+3. Data Communication and Networking: Learning about the principles and techniques involved in data communication, such as how data is transmitted, received, and interpreted, is essential for a computer engineer.
+4. Network Administration and Management: This involves learning how to manage and administer efficiently, including tasks such as network configuration, monitoring, troubleshooting, and maintenance.
+5. Distributed Systems: Understanding how data is distributed across multiple systems and the challenges with it is crucial, espeically in the context of modern cloud computing.
+6. Internet of Things (IoT): Learning about how various devices connect and communicate with each other through the internet can be beneficial, especially in the context of the growing IoT ecosystem.
+7. Wireless Networking: With the increasing prevalance of wireless communication, learning about wireless networking protocols and technologies is important for computer engineers.
+8. Network Programming: Understanding how to develop software applications that communicate over a network is a valuable skill for computer engineers.
+9. Cloud Computing: Learning about cloud computing infrastructure, services, and deployment models can be a advantageous in today's technology landscape.
+
+By gaining knowledge in these areas, a computer engineer can effectively contribute to the design, implementation, and maintenance of complex computer networks and systems, which are essential for the functioning of modern businesses and societies.
