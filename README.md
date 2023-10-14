@@ -1,8 +1,10 @@
 # Answers by ChatGPT
 
-_**Here are my questions to ChatGPT and the answers I received...**_
+_**Here are my questions to ChatGPT and the answers I received from this AI-powered chatbot...**_
 
-Free preview version of ChatGPT was used (based on GPT-3.5) with its well-known model text-davinci-002. All these answers are given 'as is' and no modification was made afterwards...
+Free preview version of ChatGPT was used (GPT-3.5) with its well-known model text-davinci-002. All these answers are given from ChatGPT **'as is'** and NO modification was made afterwards... Keep in mind that I cannot guarantee 100% correctness for all these answers, although my questions are as clean as possible.
+
+More questions and answers will arrive in the future. My primary target is to write at least **100 questions** to ask and get relevant answers.
 
 ## Questions In This Page
 
@@ -12,8 +14,12 @@ Free preview version of ChatGPT was used (based on GPT-3.5) with its well-known 
 - [4. What is data analysis? How does it affect the large companies?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#4-what-is-data-analysis-how-does-it-affect-the-large-companies)
 - [5. Which programming languages, libraries and tools are suitable for data analysis?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#5-which-programming-languages-libraries-and-tools-are-suitable-for-data-analysis)
 - [6. What is machine learning? What are the types of machine learning?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#6-what-is-machine-learning-what-are-the-types-of-machine-learning)
+- [7. What is computer networks? Which beneficial things can you learn as a computer engineer?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#7-what-is-computer-networks-which-beneficial-things-can-you-learn-as-a-computer-engineer)
+- [8. What is computer vision? How can you take advantage from computer vision?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#8-what-is-computer-vision-how-can-you-take-advantage-from-computer-vision)
+- [9. What are frontend and backend for web applications?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#9-what-are-frontend-and-backend-for-web-applications)
+- [10. What things are necessary to write very good program codes?](https://github.com/toUpperCase78/answers-by-chatgpt/tree/main#10-what-things-are-necessary-to-write-very-good-program-codes)
 
-### 1. What is the importance of computers in 21st century?
+## 1. What is the importance of computers in 21st century?
 
 Computers play a crucial role in 21st century across various aspects of our lives, and their importance continues to grow as technology advances. Here are some key reasons why computers are essential in the 21st century:
 
@@ -33,7 +39,7 @@ Computers play a crucial role in 21st century across various aspects of our live
 
 In summary, computers are central to nearly every aspect of modern life in the 21st century. Their importance is evident in education, work, entertainment, research, healthcare, and many other areas. As technology continues to advance, computers will likely play an even more significant role in shaping our future.
 
-### 2. What are the advantages of artificial intelligence (AI) in today's world?
+## 2. What are the advantages of artificial intelligence (AI) in today's world?
 
 Artificial Intelligence (AI) offers numerous advantages in today's world, contributing to advancements and improvements across various various industries and aspects of our lives. Here are some of the key advantages of AI:
 
@@ -55,7 +61,7 @@ Artificial Intelligence (AI) offers numerous advantages in today's world, contri
 
 While AI offers numerous advantages, it also raises ethical and societal considerations, including issues related to privacy, bias, job displacement, and the responsible use of AI technology. Therefore, it's essential to balance the benefits of AI with thoughtful regulation and ethical considerations to ensure its responsible and equitable deployment.
 
-### 3. What are the benefits of computer programming and software development?
+## 3. What are the benefits of computer programming and software development?
 
 Computer programming and software development offer a wide range of benefits, both for individuals and society as a whole. Here are some of the key benefits of pursuing a career or hobby in this fied:
 
@@ -77,7 +83,7 @@ Computer programming and software development offer a wide range of benefits, bo
 
 It's worth noting that while programming and software development offer numerous benefits, they also come with challenges, such as the need to continuously update skills, deal with complex technical issues, and manage project timelines. Nonetheless, the advantages often outweigh the challenges, making it a rewarding and dynamic field for those interested in technology and problem-solving.
 
-### 4. What is data analysis? How does it affect the large companies?
+## 4. What is data analysis? How does it affect the large companies?
 
 Data analysis is the process of examining, cleaning, transforming, and interpreting data to discover meaningful insights, patterns, trends, and information that can be used for decision-making and problem-solving. It involves using various techniques and tools to make data more understandable and valuable. Data analysis can encompass a wide range of activities, including statistical analysis, data mining, machine learning, and visualization.
 
@@ -98,7 +104,7 @@ In the context of large companies, data analysis has a profound impact in severa
 
 In summary, data analysis is a critical function for large companies, as it helps them make informed decisions, improve operational efficiency, enhance customer relationships, and maintain a competitive edge in a repidly changing business landscape. The ability to extract meaningful insights from data is a key driver of success in today's business world.
 
-### 5. Which programming languages, libraries and tools are suitable for data analysis?
+## 5. Which programming languages, libraries and tools are suitable for data analysis?
 
 Data analysis involves a variety of programming languages, libraries, and tools, each with its own strengths and applications. The choice of which ones to use depends on factors like the specific task at hand, personal or organizational preferences, and the data analysis ecosystem in which you work. Here are some popular programming languages, libraries, and tools commonly used for data analysis:
 
@@ -137,7 +143,7 @@ Data analysis involves a variety of programming languages, libraries, and tools,
 
 The choice of tools and libraries often depends on the specific requirements of your data analysis project and your familiarity with the tools. Many data analysis and scientists use a combination of these resources to best suit their needs, leveraging the strengths of each to perform comprehensive and effective data analysis.
 
-### 6. What is machine learning? What are the types of machine learning?
+## 6. What is machine learning? What are the types of machine learning?
 
 Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on the development of algorithms and models that enable systems to learn and make predictions or decisions based on data without being explicitly programmed. In essence, machine learning allows computers to improve their performance on a task through experience, much like humans learn from experience.
 
@@ -180,7 +186,7 @@ Machine learning can be categorized into several types based on the learning app
 
 Machine learning is a versatile and powerful field with applications in various domains, including image and speech recognition, natural language processing, recommendation systems, autonomous vehicles, and more. The choice of which type of machine learning to use depends on the specific problem and the availability of labeled data.
 
-### 7. What is computer networks? Which beneficial things can you learn as a computer engineer?
+## 7. What is computer networks? Which beneficial things can you learn as a computer engineer?
 
 Computer networks refer to the interconnected system of computers that share resources and information. These interconnected systems can be within a small area, like within a single office building, or spread across the globe. They enable the sharing of resources and information among various devices. Computer networks are critical in facilitating communication, data sharing, and resource sharing between multiple devices, which can include computers, servers, routers, and other devices.
 
@@ -198,7 +204,7 @@ As a computer engineer, there are several beneficial things you can learn, some 
 
 By gaining knowledge in these areas, a computer engineer can effectively contribute to the design, implementation, and maintenance of complex computer networks and systems, which are essential for the functioning of modern businesses and societies.
 
-### 8. What is computer vision? How can you take advantage from computer vision?
+## 8. What is computer vision? How can you take advantage from computer vision?
 
 Computer vision is a field of artificial intelligence and computer science that focuses on enabling computers to interpret and understand the visual world. It involves developing algorithms and techniques that allow computers to gain high-level understanding from digital images or videos. Computer vision systems can extract, analyze, and understand infornation from images to make decisions or perform tasks that typically require human visual capabilities.
 
@@ -216,7 +222,7 @@ There are several ways to take advantage of computer vision:
 
 By leveraging computer vision, businesses and industries can automate various tasks, enhance decision-making processes, improve efficiency, and create innovative products and services that rely on visual data analysis.
 
-### 9. What are frontend and backend for web applications?
+## 9. What are frontend and backend for web applications?
 
 In the context of web development, the terms "frontend" and "backend" refer to the two primary aspects of a web application. They represent different components and functionalities that work together to create a fully functional web application.
 
@@ -244,7 +250,7 @@ Key elements of the backend include:
 
 In summary, the frontend is what users see and interact with, while the backend is the underlying structure that supports the frontend and manages the application's functionality, data, and operations. Both frontend and backend components are crucial for the development of a complete and functional web application.
 
-### 10. What things are necessary to write very good program codes?
+## 10. What things are necessary to write very good program codes?
 
 Writing high-quality, efficient, and maintainable code is crucial for any software development project. While the specific requirements can vary depending on the context and programming language, here are some general principles and practices that can help you write good program code:
 
