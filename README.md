@@ -197,3 +197,21 @@ As a computer engineer, there are several beneficial things you can learn, some 
 9. Cloud Computing: Learning about cloud computing infrastructure, services, and deployment models can be a advantageous in today's technology landscape.
 
 By gaining knowledge in these areas, a computer engineer can effectively contribute to the design, implementation, and maintenance of complex computer networks and systems, which are essential for the functioning of modern businesses and societies.
+
+### 8. What is computer vision? How can you take advantage from computer vision?
+
+Computer vision is a field of artificial intelligence and computer science that focuses on enabling computers to interpret and understand the visual world. It involves developing algorithms and techniques that allow computers to gain high-level understanding from digital images or videos. Computer vision systems can extract, analyze, and understand infornation from images to make decisions or perform tasks that typically require human visual capabilities.
+
+There are several ways to take advantage of computer vision:
+
+1. Automated Inspection and Quality Control: Computer vision can be used to automatically inspect and identify defects in manufacturing processes, thereby improving the quality control of products.
+2. Object Recognition and Classification: Computer vision can help identify and classify objects within images or videos, which is useful in various applications, such as autonomous vehicles, surveillance systems, and image organization.
+3. Facial Recognition and Biometrics: It can be used for facial recognition in security systems, identify verification, and access control.
+4. Medical Image Analysis: Computer vision is crucial in medical imaging applications, such as identifying tumors, analyzing X-rays, and assisting in medical diagnoses.
+5. Augmented Reality (AR) and Virtual Reality (VR): Computer vision is a fundamental technology in AR and VR applications, allowing for the overlay of digital information onto the real world or the creation of immersive virtual environments.
+6. Autonomous Vehicles: Computer vision plays a vital role in enabling autonomous vehicles to perceive and interpret their surroundings, including identifying objects, pedestrians, traffic signs, and road conditions.
+7. Robotics: Computer vision is essential in robotics for tasks such as object manipulation, navigation, and environment perception.
+8. Retail Analytics: Computer vision can be used in retail to track customer behavior, analyze foot traffic, and optimize store layouts for better customer engagement and sales.
+9. Security and Surveillance: Computer vision can enhance security and surveillance systems by automatically monitoring and analyzing video feeds to detect anomalies or suspicious activities.
+
+By leveraging computer vision, businesses and industries can automate various tasks, enhance decision-making processes, improve efficiency, and create innovative products and services that rely on visual data analysis.
