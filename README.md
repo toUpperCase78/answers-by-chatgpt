@@ -186,15 +186,15 @@ Computer networks refer to the interconnected system of computers that share res
 
 As a computer engineer, there are several beneficial things you can learn, some of which are directly related to computer networks:
 
-1. Network Architecture and Protocols: Understanding how networks are structured, the various components that make up a network, and the protocols that govern their communication is fundamental.
-2. Network Security: With the increasing threat of cyberattacks, understanding how to secure networks and data is crucial. This includes learning about encryption, firewalls, secure network design, and more.
-3. Data Communication and Networking: Learning about the principles and techniques involved in data communication, such as how data is transmitted, received, and interpreted, is essential for a computer engineer.
-4. Network Administration and Management: This involves learning how to manage and administer efficiently, including tasks such as network configuration, monitoring, troubleshooting, and maintenance.
-5. Distributed Systems: Understanding how data is distributed across multiple systems and the challenges with it is crucial, espeically in the context of modern cloud computing.
-6. Internet of Things (IoT): Learning about how various devices connect and communicate with each other through the internet can be beneficial, especially in the context of the growing IoT ecosystem.
-7. Wireless Networking: With the increasing prevalance of wireless communication, learning about wireless networking protocols and technologies is important for computer engineers.
-8. Network Programming: Understanding how to develop software applications that communicate over a network is a valuable skill for computer engineers.
-9. Cloud Computing: Learning about cloud computing infrastructure, services, and deployment models can be a advantageous in today's technology landscape.
+1. **Network Architecture and Protocols:** Understanding how networks are structured, the various components that make up a network, and the protocols that govern their communication is fundamental.
+2. **Network Security:** With the increasing threat of cyberattacks, understanding how to secure networks and data is crucial. This includes learning about encryption, firewalls, secure network design, and more.
+3. **Data Communication and Networking**: Learning about the principles and techniques involved in data communication, such as how data is transmitted, received, and interpreted, is essential for a computer engineer.
+4. **Network Administration and Management:** This involves learning how to manage and administer efficiently, including tasks such as network configuration, monitoring, troubleshooting, and maintenance.
+5. **Distributed Systems:** Understanding how data is distributed across multiple systems and the challenges with it is crucial, espeically in the context of modern cloud computing.
+6. **Internet of Things (IoT):** Learning about how various devices connect and communicate with each other through the internet can be beneficial, especially in the context of the growing IoT ecosystem.
+7. **Wireless Networking:** With the increasing prevalance of wireless communication, learning about wireless networking protocols and technologies is important for computer engineers.
+8. **Network Programming:** Understanding how to develop software applications that communicate over a network is a valuable skill for computer engineers.
+9. **Cloud Computing:** Learning about cloud computing infrastructure, services, and deployment models can be a advantageous in today's technology landscape.
 
 By gaining knowledge in these areas, a computer engineer can effectively contribute to the design, implementation, and maintenance of complex computer networks and systems, which are essential for the functioning of modern businesses and societies.
 
@@ -204,14 +204,42 @@ Computer vision is a field of artificial intelligence and computer science that 
 
 There are several ways to take advantage of computer vision:
 
-1. Automated Inspection and Quality Control: Computer vision can be used to automatically inspect and identify defects in manufacturing processes, thereby improving the quality control of products.
-2. Object Recognition and Classification: Computer vision can help identify and classify objects within images or videos, which is useful in various applications, such as autonomous vehicles, surveillance systems, and image organization.
-3. Facial Recognition and Biometrics: It can be used for facial recognition in security systems, identify verification, and access control.
-4. Medical Image Analysis: Computer vision is crucial in medical imaging applications, such as identifying tumors, analyzing X-rays, and assisting in medical diagnoses.
-5. Augmented Reality (AR) and Virtual Reality (VR): Computer vision is a fundamental technology in AR and VR applications, allowing for the overlay of digital information onto the real world or the creation of immersive virtual environments.
-6. Autonomous Vehicles: Computer vision plays a vital role in enabling autonomous vehicles to perceive and interpret their surroundings, including identifying objects, pedestrians, traffic signs, and road conditions.
-7. Robotics: Computer vision is essential in robotics for tasks such as object manipulation, navigation, and environment perception.
-8. Retail Analytics: Computer vision can be used in retail to track customer behavior, analyze foot traffic, and optimize store layouts for better customer engagement and sales.
-9. Security and Surveillance: Computer vision can enhance security and surveillance systems by automatically monitoring and analyzing video feeds to detect anomalies or suspicious activities.
+1. **Automated Inspection and Quality Control:** Computer vision can be used to automatically inspect and identify defects in manufacturing processes, thereby improving the quality control of products.
+2. **Object Recognition and Classification:** Computer vision can help identify and classify objects within images or videos, which is useful in various applications, such as autonomous vehicles, surveillance systems, and image organization.
+3. **Facial Recognition and Biometrics:** It can be used for facial recognition in security systems, identify verification, and access control.
+4. **Medical Image Analysis:** Computer vision is crucial in medical imaging applications, such as identifying tumors, analyzing X-rays, and assisting in medical diagnoses.
+5. **Augmented Reality (AR) and Virtual Reality (VR):** Computer vision is a fundamental technology in AR and VR applications, allowing for the overlay of digital information onto the real world or the creation of immersive virtual environments.
+6. **Autonomous Vehicles:** Computer vision plays a vital role in enabling autonomous vehicles to perceive and interpret their surroundings, including identifying objects, pedestrians, traffic signs, and road conditions.
+7. **Robotics:** Computer vision is essential in robotics for tasks such as object manipulation, navigation, and environment perception.
+8. **Retail Analytics:** Computer vision can be used in retail to track customer behavior, analyze foot traffic, and optimize store layouts for better customer engagement and sales.
+9. **Security and Surveillance:** Computer vision can enhance security and surveillance systems by automatically monitoring and analyzing video feeds to detect anomalies or suspicious activities.
 
 By leveraging computer vision, businesses and industries can automate various tasks, enhance decision-making processes, improve efficiency, and create innovative products and services that rely on visual data analysis.
+
+### 9. What are frontend and backend for web applications?
+
+In the context of web development, the terms "frontend" and "backend" refer to the two primary aspects of a web application. They represent different components and functionalities that work together to create a fully functional web application.
+
+1. **Frontend:**
+
+The frontend of a web application is the part that users interact with directly. It's the user interface that is visible to the users in their web browsers. Frontend development involves creating the look and feel of the website or web application. This includes designing the layout, implementing the user interface elements, and ensuring a smooth and intuitive user experience. Frontend developers typically use languages like HTML (Hypertext Markup Language) for structuring the content, CSS (Cascading Style Sheets) for styling and layout, and JavaScript for implementing interactive elements and functionalities.
+
+Key elements of the frontend include:
+- User interface design
+- Web layout design
+- Responsive design for different screen sizes
+- Immplementing user interactions and functionalities
+- Client-side scripting
+
+2. **Backend:**
+
+The backend of a web application refers to the server-side of the application that is not visible to the users. It involves managing the server, application, and database. Backend development focuses on creating the logic and working of the application, managing the database, and ensuring that the frontend and backend work seamlessly together. Backend developers are responsible for building server, application, and database that the frontend of the application communicates with. They use various programming languages such as Python, Ruby, PHP, Java, and frameworks like Node.js, Django, Ruby on Rails, and more to build and maintain the server-side of the application.
+
+Key elements of the backend include:
+- Server management
+- Application logic
+- Database management
+- APIs (Application Programming Interfaces) for communication between the frontend and the server
+- Server-side scripting
+
+In summary, the frontend is what users see and interact with, while the backend is the underlying structure that supports the frontend and manages the application's functionality, data, and operations. Both frontend and backend components are crucial for the development of a complete and functional web application.
